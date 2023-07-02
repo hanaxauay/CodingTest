@@ -1,10 +1,9 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
+package Programmers_Lv1;
 
 class Solution {
     public String solution(String s) {
-    
+
+        return "Hi";
     }
 }
 public class Main {
