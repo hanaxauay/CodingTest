@@ -9,7 +9,7 @@ public class 이상한문자만들기 {
         System.out.println(solution(a));
     }
     public static int solution(int a) {
-
+        int answer=0;
         return answer;
     }
 }
